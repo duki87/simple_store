@@ -1,0 +1,24 @@
+.hidediv {
+   display:none;
+}
+
+.showdiv {
+   display:none;
+}
+
+.image-content {
+    width: 100%;
+    height: auto;
+    line-height: 20px;
+    margin-top: 0px;
+    margin-left: 9px;
+    margin-right:0px;
+    display:inline-block;
+    position:relative;
+}
+
+.image-content button {
+    position:absolute;
+    top:15px;
+    right:15px;
+}

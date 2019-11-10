@@ -1,0 +1,16 @@
+.logo-slider {
+  width: 100%;
+  height: 202px;
+  overflow: hidden;
+}
+
+.delete_comment {
+  position: absolute;
+  top: 2px;
+  right: 2px;
+
+}
+
+.single_comment {
+  position: relative;
+}
